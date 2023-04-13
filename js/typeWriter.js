@@ -11,7 +11,7 @@ function typeWriter(text, para){
 	if(i < text.length){
 		document.getElementById(para).innerHTML += text.charAt(i);
 		i++;
-		speed = 3 * 50 + 100;
+		speed = math.random() * 50 + 100;
 	}
 	else{
 		if(ok == 0){

@@ -8,7 +8,7 @@ var imageArray = ["pic/1.jpg", "pic/2.jpg", "pic/3.jpg", "pic/4.jpg", "pic/5.jpg
 var imageIndex = 0;
 var txtArray = ["Gotta love that sabrina dress!", "Special KitKat hehehe...", "You look good with glasses on.",
  "Your make up skill is so fucking good.", "My pretty gf be like 'Outfit of the day!'", "I swear to god you look good in every picture.", "Kissu Kissu (/ω＼)",
- "Kissu Kissu pt.2", "AHAHAHAH MUKA QRIS (･∀･)", "You look so fucking hot here.", "AAAA LUCU BANGETTTTT <33333", 
- "Maskeran dulu ygy ~", "SEXY BANGET ANJINGGGGG ٩(๑òωó๑)۶", "Big Arm.", "New Glarses moment B)", "Cewekku cakep banget sumpah.."];
+ "Kissu Kissu pt.2", "AHAHAHAH MUKA QRIS (･∀･)", "Sumpah cantik banget ga bohong sumpah ٩(๑òωó๑)۶", "AAAA LUCU BANGETTTTT <33333", 
+ "Maskeran dulu ygy ~", "Bangun tidur vibes.", "Big Arm.", "New Glarses moment B)", "Cewekku cakep banget sumpah.."];
  var len = imageArray.length;
 var t = 0;

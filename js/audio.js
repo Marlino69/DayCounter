@@ -1,2 +1,4 @@
-var audio = document.getElementById("lagu");
-audio.volume = 0.4;
+document.addEventListener("DOMContentLoaded", function() {
+    var audio = new Audio('music.mp3');
+    audio.play();
+});

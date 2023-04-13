@@ -1,4 +1,3 @@
-document.addEventListener("DOMContentLoaded", function() {
-    var audio = new Audio('music.mp3');
-    audio.play();
-});
+var lagu = new Audio();
+lagu.src = 'music/music.mp3';
+lagu.volume = 0.2;

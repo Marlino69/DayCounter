@@ -8,7 +8,10 @@
 	</head>
 
 	<body style="margin:0px">
-		<canvas></canvas>
+		<audio autoplay loop>
+			<source src="music/music.mp3" type="audio/mpeg">
+		</audio>
+		  <canvas></canvas>
 		<div id="imgTxt">
 			<span id="Txt"></span> <br />
 			<span id="tmp"></span>
@@ -18,9 +21,6 @@
 			<span id="clickMe">Click me!</span>
 			<div id="heart">
 				<button id="button" onclick="play()"></button>
-				<audio autoplay loop>
-					<source src="music/music.mp3" type="audio/mpeg" id="lagu">
-				</audio>
 			</div>
 		</div>
 		<div id="content">

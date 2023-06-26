@@ -1,6 +1,6 @@
 
 let i = 0;
-let text1 = "Bonjour Cherry!";
+let text1 = "Bonjour Twisya!";
 let text2 = "This is just a silly website that I made. I love you tho! <3"
 let speed = 300;
 
